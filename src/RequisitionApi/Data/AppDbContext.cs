@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using RequistionService.Models;
+using RequisitionApi.Models;
 
-namespace RequistionService.Data
+namespace RequisitionApi.Data
 {
     public class AppDbContext : DbContext {
 

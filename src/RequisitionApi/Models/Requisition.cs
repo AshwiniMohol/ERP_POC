@@ -1,4 +1,4 @@
-namespace RequistionService.Models
+namespace RequisitionApi.Models
 {
 public class Requisition 
 {

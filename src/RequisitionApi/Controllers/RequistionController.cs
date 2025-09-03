@@ -1,9 +1,11 @@
-using RequistionService.Models;
+using RequisitionApi.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
-using RequistionService.Data;
+using RequisitionApi.Data;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
-namespace RequistionService.Controllers
+namespace RequisitionApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
